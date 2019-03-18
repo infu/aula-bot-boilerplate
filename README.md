@@ -3,6 +3,14 @@
 ---
 
 # Aula Bot Boilerplate
+Boilerplate for starting a new Aula bot. The main purpose of bots is to automate tasks.
+
+Bots can obtain information by:
+- Proactively browsing
+- Reactively listening to streams of real-time updates
+
+Bots can execute actions if they are allowed to by their given roles and permissions
+Bots are inherently dissalowed to "like" and "watch".
 
 ## Documentation
 http://nightly.aula.bg:3003/docs/server
