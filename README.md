@@ -10,6 +10,7 @@ Bots can obtain information by:
 - Reactively listening to streams of real-time updates
 
 Bots can execute actions if they are allowed to by their given roles and permissions
+
 Bots are inherently dissalowed to "like" and "watch".
 
 ## Documentation
