@@ -1,8 +1,8 @@
-# Aula Bot Boilerplate
-
 # UNDER CONSTRUCTION
 
-# API DOCUMENTATION
+# Aula Bot Boilerplate
+
+# Documentation
 http://nightly.aula.bg:3003/docs/server
 
 # Features
