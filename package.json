@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aula": "^1.7.0"
+    "aula": "^1.26.0",
+    "form-data": "^2.3.3",
+    "node-fetch": "^2.5.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
